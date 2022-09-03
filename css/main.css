@@ -1,0 +1,123 @@
+/* 
+Author: Saeed Pirbodaghi
+Version: 1.0.0
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+}
+div.Banner-h60-w100{
+    height: 60px;
+    background-color: gray;
+    width: 100%;
+}
+div.Search-h50-w100{
+    height: 50px;
+    background-color: blue;
+    width: 100%;
+}
+div.Menu-h50-w100{
+    height: 50px;
+    background-color: darkblue;
+}
+div.Slider-top{
+    height:250px;
+    background-color: orange;
+}
+div.Services{
+    height: 100px;
+    background-color: blueviolet;
+}
+div.AmazingRecommendations{
+    height: 200px;
+    background-color: red;
+}
+div.AmazingShortcuts{
+    height: 100px;
+    background-color: aqua;
+}
+div.Container{
+    height: 200px;
+    background-color: darkgoldenrod;
+}
+div.Categories{
+    height: 400px;
+    background-color: chartreuse;
+}
+div.Advertisment{
+    height: 200px;
+    background-color: gray;
+}
+div.Recommendations{
+    height: 300px;
+    background-color: cyan;
+}
+div.PopularBrands{
+    height: 100px;
+    background-color: yellow;
+}
+div.Advertisment2{
+    height: 200px;
+    background-color: gray;
+}
+div.Phone-Gadgets{
+    height: 100px;
+    background-color: brown;
+}
+div.DigiPlus{
+    height: 100px;
+    background-color: blue;
+}
+div.DigiClub{
+    height: 300px;
+    background-color: yellow;
+}
+div.Recommendations2{
+    height: 100px;
+    background-color: darkblue;
+}
+div.BestSelling{
+    height: 100px;
+    background-color: yellowgreen;
+}
+div.SelectedDiscountedProducts{
+    height: 100px;
+    background-color: orange;
+}
+div.Articles{
+    height: 100px;
+    background-color: brown;
+}
+div.footer1{
+    height: 100px;
+    background-color: yellow;
+}
+div.footer2{
+    height: 100px;
+    background-color: blue;
+}
+div.footer3{
+    height: 100px;
+    background-color: blueviolet;
+}
+div.footer4{
+    height: 100px;
+    background-color: aqua;
+}
+div.footer5{
+    height: 100px;
+    background-color: bisque;
+}
+div.footer6{
+    height: 100px;
+    background-color: coral;
+}
+div.footer7{
+    height: 100px;
+    background-color: skyblue;
+}
+div.footer8{
+    height: 100px;
+    background-color: darkgreen;
+}
